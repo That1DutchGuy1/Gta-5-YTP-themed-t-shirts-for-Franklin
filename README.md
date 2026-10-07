@@ -1,3 +1,5 @@
+> Note that this mod is also available on [Gta5Mods](https://www.gta5-mods.com/player/youtube-poop-themed-tees-for-franklin)
+
 # YouTube Poop themed tees for Franklin
 
 A hilarious t-shirt texture pack featuring classic YTP characters. Each shirt has a print of a character and an iconic meme quote from them in Comic Sans on it. 

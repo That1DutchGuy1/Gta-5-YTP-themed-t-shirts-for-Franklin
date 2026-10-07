@@ -1,4 +1,4 @@
-> Note that this mod is also available on [Gta5Mods](https://www.gta5-mods.com/player/youtube-poop-themed-tees-for-franklin)
+> Note that this mod is also available on [Gta5Mods](https://www.gta5-mods.com/player/youtube-poop-themed-tees-for-franklin).
 
 # YouTube Poop themed tees for Franklin
 
@@ -25,13 +25,21 @@ Made by That1DutchGuy
 ## Available textures:
 
 1. King Harkinian tee
+   <img src="harkinian-tee.jpg" width="200px" alt="King Harkinian T-shirt"/>
 2. Gwonam tee
+   <img src="gwonam-tee.jpg" width="200px" alt="Gwonam T-shirt"/>
 3. Michael Rosen tee
+   <img src="rosen-tee.jpg" width="200px" alt="Michael Rosen T-shirt"/>
 4. Hotel Mario tee
+   <img src="hotelmario-tee.jpg" width="200px" alt="Hotel Mario T-shirt"/>
 5. CD-i Link tee
+   <img src="link-tee.jpg" width="200px" alt="Link T-shirt"/>
 6. AOSTH Robotnik tee
+   <img src="robotnik-tee.jpg" width="200px" alt="Robotnik T-shirt"/>
 7. Morshu tee
+   <img src="morshu-tee.jpg" width="200px" alt="Morshu T-shirt"/>
 8. Weegee tee
+   <img src="weegee-tee.jpg" width="200px" alt="Weegee T-shirt"/>
 
 ---
 

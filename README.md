@@ -24,21 +24,21 @@ Made by That1DutchGuy
 
 ## Available textures:
 
-1. King Harkinian tee \
+1. King Harkinian tee <br>
    <img src="harkinian-tee.jpg" width="200px" alt="King Harkinian T-shirt"/>
-2. Gwonam tee \
+2. Gwonam tee <br>
    <img src="gwonam-tee.jpg" width="200px" alt="Gwonam T-shirt"/>
-3. Michael Rosen tee \
+3. Michael Rosen tee <br>
    <img src="rosen-tee.jpg" width="200px" alt="Michael Rosen T-shirt"/>
-4. Hotel Mario tee \
+4. Hotel Mario tee <br>
    <img src="hotelmario-tee.jpg" width="200px" alt="Hotel Mario T-shirt"/>
-5. CD-i Link tee \
+5. CD-i Link tee <br>
    <img src="link-tee.jpg" width="200px" alt="Link T-shirt"/>
-6. AOSTH Robotnik tee \
+6. AOSTH Robotnik tee <br>
    <img src="robotnik-tee.jpg" width="200px" alt="Robotnik T-shirt"/>
-7. Morshu tee \
+7. Morshu tee <br>
    <img src="morshu-tee.jpg" width="200px" alt="Morshu T-shirt"/>
-8. Weegee tee \
+8. Weegee tee <br>
    <img src="weegee-tee.jpg" width="200px" alt="Weegee T-shirt"/>
 
 ---
